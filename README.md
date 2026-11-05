@@ -1,4 +1,4 @@
-# 🚗 Car Dataset Analysis
+# Car Dataset Analysis
 
 This project cleans the *Car Features & MSRP* dataset (11,914 listings), adds engineered features, and explores it to answer four questions about price, horsepower, drivetrain and fuel economy.
 
